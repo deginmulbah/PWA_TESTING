@@ -1,0 +1,23 @@
+{
+    "name": "Dev'Coffee",
+    "short_name": "DevCoffee",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "assert/img/icons/favicon-16x16.png",
+        "type": "image/png","sizes": "16x16"
+      },
+      {
+        "src": "assert/img/icons/favicon-32x32.png",
+        "type": "image/png", "sizes": "32x32"
+      },
+      {
+        "src": "assert/img/icons/apple-touch-icon.png",
+        "type": "image/png", "sizes": "180x180"
+      }
+    ]
+}
